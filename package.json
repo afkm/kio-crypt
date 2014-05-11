@@ -1,0 +1,23 @@
+{
+  "name": "kio-crypt",
+  "version": "0.0.0",
+  "description": "A universal crypto helper used in KIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/afkm/kio-crypt.git"
+  },
+  "keywords": [
+    "kio",
+    "crypt"
+  ],
+  "author": "silend (http://github.com/afkm)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afkm/kio-crypt/issues"
+  },
+  "homepage": "https://github.com/afkm/kio-crypt"
+}
